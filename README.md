@@ -11,5 +11,6 @@
 
 ## 3. Frontend
 
-### 3.1 [TypeScript](https://github.com/oskardudycz/TypeScriptKnowledgeBase/blob/master/README.md)
-### 3.2 [React](https://github.com/oskardudycz/ReactKnowledgeBase)
+### 3.1 [JavaScript](https://github.com/oskardudycz/JavaScriptKnowledgeBase/blob/master/README.md)
+### 3.2 [TypeScript](https://github.com/oskardudycz/TypeScriptKnowledgeBase/blob/master/README.md)
+### 3.3 [React](https://github.com/oskardudycz/ReactKnowledgeBase)
